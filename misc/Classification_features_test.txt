@@ -1,0 +1,13 @@
+Driver_Type_Aggressive,Driver_Type_Normal,Terrain_Downhill,Terrain_Flat Plane,Terrain_Uphill,Drive_position_No Rest-1,Drive_position_No Rest-2,Drive_position_No Rest-3,Drive_position_No Rest-4,Drive_position_Rest and Charge_1,Drive_position_Rest and Charge_2,Drive_position_Rest and Charge_3,Cell_number_1,Cell_number_2,Cell_number_3
+1,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+1,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+0,1,1,0,0,0,0,0,1,0,0,0,0,1,0
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+0,1,0,1,0,0,1,0,0,0,0,0,0,0,1
+1,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+0,1,0,0,1,0,0,0,1,0,0,0,1,0,0
+1,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+0,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+0,1,0,1,0,0,0,0,1,0,0,0,0,0,1
