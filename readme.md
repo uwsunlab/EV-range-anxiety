@@ -12,7 +12,7 @@ Souryadeep Mondal, [Hemanth Neelgund Ramesh](https://nrhemanth.github.io/hemanth
 Please contact us by email (shijing[at]uw.edu) for questions about our paper or code. 
 
 
-### 📁 **Repository Structure**  
+### **Repository Structure**  
 ```bash
 datasets/             # Processed datasets used for training and evaluation
 │
@@ -25,16 +25,18 @@ misc/                 # Miscellaneous notebooks and files for data processing
 │
 plots/                # Contains figures used in the paper
 │
-LICENSE  
+LICENSE 
+```
 
 
-### 🚀 **To reproduce the results or build upon this work:  **  
+### **To reproduce the results or build upon this work:**  
 
 #### 1. Clone the Repository  
 ```bash
 git clone https://github.com/yourrepo/EV-range-anxiety.git
+```
 
-### 📑 **Citation**  
+### **Citation**  
 If you use our dataset or work, please cite it as:  
 
 #### BibTeX  
@@ -46,3 +48,4 @@ If you use our dataset or work, please cite it as:
   journal = {ChemRxiv},
   doi = {10.26434/chemrxiv-2024-ztnx9}
 }
+```
