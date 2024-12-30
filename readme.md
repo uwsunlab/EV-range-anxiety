@@ -4,12 +4,17 @@ This repository contains datasets and notebook for the paper -
 ### [Reducing Electric Vehicle Range Anxiety with Machine Learning Models Incorporating Human Behavior](https://chemrxiv.org/engage/chemrxiv/article-details/67155be0cec5d6c142b80c48)
 
 
-### 📄 **Paper Details**  
-**Authors:**  
-Souryadeep Mondal, [Hemanth Neelgund Ramesh](https://nrhemanth.github.io/hemanthnr/about/), Xiao Ma, Shuan Cheng, Tristan Angeles, [Shijing Sun](https://www.uwsunlab.com/shijing). 
-*Department of Mechanical Engineering, University of Washington, Seattle, WA 98195, USA*  
+### **Paper Details**  
+#### **Authors:**  
+Souryadeep Mondal, [Hemanth Neelgund Ramesh](https://nrhemanth.github.io/hemanthnr/about/), 
+Xiao Ma, Shuan Cheng, Tristan Angeles, [Shijing Sun](https://www.uwsunlab.com/shijing). 
+
+
+*Department of Mechanical Engineering, University of Washington*  
 
 Please contact us by email (shijing[at]uw.edu) for questions about our paper or code. 
+
+
 
 
 ### **Repository Structure**  
@@ -29,12 +34,17 @@ LICENSE
 ```
 
 
+
+
 ### **To reproduce the results or build upon this work:**  
 
 #### 1. Clone the Repository  
 ```bash
 git clone https://github.com/yourrepo/EV-range-anxiety.git
 ```
+
+
+
 
 ### **Citation**  
 If you use our dataset or work, please cite it as:  
