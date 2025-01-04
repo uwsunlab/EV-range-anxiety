@@ -11,6 +11,7 @@ BATT_DATA_DIR = DATASET_DIR / 'battery_dataset'
 VEL_DATA_DIR = DATASET_DIR / 'velocity_dataset'
 CURRENT_MODEL_DIR = MODELS_DIR /'current_based_ML_models'
 FORECAST_MODEL_RESULT_DIR = CURRENT_MODEL_DIR / 'forecast_model_results'
+VEL_MODELS = MODELS_DIR / 'velocity_based_ML_models'
 
 ##specific notebook file paths
 FORECAST_DATA_NB = MISC_DIR / 'forecast_data_create.ipynb'
