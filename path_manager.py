@@ -5,6 +5,7 @@ ROOT_DIR = Path(__file__).parent
 DATASET_DIR = ROOT_DIR / 'datasets'
 MISC_DIR = ROOT_DIR / 'misc'
 MODELS_DIR = ROOT_DIR / 'ML_and_simulink_models'
+PLOT_DIR = ROOT_DIR / 'plots'
 
 #specific folder paths
 BATT_DATA_DIR = DATASET_DIR / 'battery_dataset'
