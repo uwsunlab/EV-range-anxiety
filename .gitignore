@@ -2,3 +2,8 @@
 .DS_Store
 .Rhistory
 *.h5
+venv/
+.venv/
+poetry.lock
+__pycache__/
+*.pyc
