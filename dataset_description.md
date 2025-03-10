@@ -59,6 +59,9 @@ Reference data is not used for model validation, it provides insight into typica
 
 #### Notes
 `battery_dataset/` contains raw files, while `battery_data(processed)/` contains processed files
+
 Reference data is only for insight, not for model validation
+
 Battery profiles are generated from velocity (drive cycle) data
+
 The folder structure mirrors the way data is developed
