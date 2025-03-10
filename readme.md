@@ -49,7 +49,7 @@ You can read more about the dataset in:
 ## **To reproduce results**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourrepo/EV-range-anxiety.git
+git clone https://github.com/uwsunlab/EV-range-anxiety.git
 cd EV-range-anxiety
 ```
 
