@@ -18,7 +18,7 @@ hemnr31[at]uw[dot]edu, shijing[at]uw[dot]edu
 <br>
 
 ## **Repository structure**
-```bash
+```
 models/                     # Machine learning and Simulink models  
 │
 datasets/                   # Battery and velocity datasets used in this study  
