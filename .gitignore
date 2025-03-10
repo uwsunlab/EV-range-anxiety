@@ -1,9 +1,21 @@
-.DS_Store
+# System files
 .DS_Store
 .Rhistory
-*.h5
+
+# Python bytecode & caches
+__pycache__/
+
+# Virtual environments
 venv/
 .venv/
+
+# Poetry dependencies (keep poetry.lock for reproducibility)
 poetry.lock
-__pycache__/
-*.pyc
+
+# Jupyter Notebook & pytest cache
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Large files & outputs
+plots/  # Ignore if plots are regenerated
+# *.h5  # HDF5 model weights
