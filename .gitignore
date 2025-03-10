@@ -17,5 +17,5 @@ poetry.lock
 .pytest_cache/
 
 # Large files & outputs
-plots/  # Ignore if plots are regenerated
-# *.h5  # HDF5 model weights
+# plots/  # Ignore if plots are regenerated
+*.h5  # HDF5 model weights
