@@ -22,15 +22,15 @@ hemnr31[at]uw[dot]edu, shijing[at]uw[dot]edu
 models/                     # Machine learning and Simulink models  
 │
 datasets/                   # Battery and velocity datasets used in this study  
-│ ├── battery_data_processed/  # Processed battery dataset  
-│ ├── battery_raw/             # Raw battery dataset  
-│ ├── velocity_raw/            # Raw velocity dataset  
+│ ├── battery_data(processed)/  # Processed battery dataset  
+│ ├── battery_dataset/             # Raw battery dataset  
+│ ├── velocity_dataset/            # Raw velocity dataset  
 │
 misc/                      # Miscellaneous files containing data processing notebooks and ML results  
 │
 dataset_description.md      # Detailed dataset documentation  
 |
-LICENSE                     # Repository license  
+LICENSE                     
 |
 path_manager.py             # Manages dataset and script paths
 |
