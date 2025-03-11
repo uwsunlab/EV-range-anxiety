@@ -31,7 +31,7 @@ Reference data is not used for model validation, it provides insight into typica
 <br>
 
 #### `battery_data(processed)/` 
-*(Processed battery current profiles – the files you are mostly looking for are in this folder)*  
+*Processed battery current profiles – the files you are mostly looking for are in this folder*  
 
 `train/` – 102 processed current profiles (96 original + 6 retests) used for ML training
 
@@ -42,7 +42,7 @@ Reference data is not used for model validation, it provides insight into typica
 <br>
 
 #### `velocity_dataset/ `
-*(Drive cycle data for generating battery profiles)*
+*Drive cycle data for generating battery profiles*
 
 `train/` – 16 drive cycles grouped by driving style & batch
   - Example: `assertive_batch1/` contains drive cycles for an assertive driver in batch 1
