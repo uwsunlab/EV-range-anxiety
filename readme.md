@@ -19,16 +19,13 @@ hemnr31[at]uw[dot]edu, shijing[at]uw[dot]edu
 
 ## **Repository structure**
 ```
-models/                     # Machine learning and Simulink models  
+sample_data/              # Sample time-series velocity and battery performance data
+  sample_battery_data(processed).csv
+  sample_velocity_data.xlsx
+|
+models/                     # Machine learning and Simulink models   
 │
-datasets/                   # Battery and velocity datasets used in this study  
-│ ├── battery_data(processed)/  # Processed battery dataset  
-│ ├── battery_dataset/             # Raw battery dataset  
-│ ├── velocity_dataset/            # Raw velocity dataset  
-│
-misc/                      # Miscellaneous files containing data processing notebooks and ML results  
-│
-dataset_description.md      # Detailed dataset documentation  
+misc/                      # Miscellaneous files containing data processing notebooks and ML results   
 |
 LICENSE                     
 |
@@ -41,8 +38,7 @@ readme.md
 <br>
 
 ## **Dataset details**
-You can read more about the dataset in:  
-📄 **[dataset_description.md](./dataset_description.md)**
+The dataset will be uploaded upon publication; sample battery and velocity data can be accessed from the dataset folder.
 
 <br>
 
