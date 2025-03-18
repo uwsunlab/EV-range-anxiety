@@ -4,7 +4,7 @@
 
 This repository contains datasets and code for our paper:  
 
-[Reducing Electric Vehicle Range Anxiety with Machine Learning Models Incorporating Human Behavior](https://chemrxiv.org/engage/chemrxiv/article-details/67155be0cec5d6c142b80c48)
+[Reducing Electric Vehicle Range Anxiety with Trip-Specific Charge Usage Predictions](https://chemrxiv.org/engage/chemrxiv/article-details/67155be0cec5d6c142b80c48)
 
 ### Authors 
 Souryadeep Mondal,[Hemanth Neelgund Ramesh](https://nrhemanth.github.io/hemanthnr/about/), Xiao Ma, Shuan Cheng, Tristan Angeles, [Shijing Sun](https://www.uwsunlab.com/shijing).  
